@@ -12,3 +12,8 @@ function mathMul(a, b) {
     return a * b
 }
 console.log(mathMul(2, 3));
+
+function mathDiv(a, b) {
+    return a / b
+}
+console.log(mathDiv(10, 2));
