@@ -7,3 +7,4 @@ fs.readFile("example.txt", "utf-8", (err, data) => {
     }
     console.log("Fayl mazmuni:", data);
 });
+// fs modulini readFile metodi
