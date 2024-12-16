@@ -17,3 +17,5 @@ function mathDiv(a, b) {
     return a / b
 }
 console.log(mathDiv(10, 2));
+
+module.exports = { mathAdd, mathSub, mathMul, mathDiv }
